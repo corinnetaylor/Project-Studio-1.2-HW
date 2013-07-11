@@ -1,0 +1,1 @@
+Press the spacebar to swap views between the chair and the terrain.
